@@ -1,8 +1,11 @@
-
+<!-- 
 <p align="center">
-<!--   Welcome to my GitHub!                           -->
+<!--   Welcome to my GitHub!                         
   <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" alt="Coding GIF" />
 </p>
+
+
+  -->
 
 <!-- 
 ## I'm a software developer who loves to:
@@ -12,7 +15,7 @@
 - 🛠️ Contribute to open-source projects
  -->
  ---
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a" />
