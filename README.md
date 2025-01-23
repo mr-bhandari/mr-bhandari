@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mr-bhandari
 - 👀 I’m interested in your project and ideas
-- 🌱 I’m currently learning Java, Spring and Angular
+- 🌱 I’m currently learning Java, Javascript, TypeScript
 - 💞️ I’m looking to collaborate on open soruce projects
-- 📫 Reach me at: xxx-xxx-xxxx
+- 📫 Reach me at: dont-reach-out
 - ⚡ Fun fact: Explorer, Contributor
 
 <!---
